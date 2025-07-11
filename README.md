@@ -1,12 +1,66 @@
-# React + Vite
+# Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive portfolio website showcasing my skills, projects, and professional journey.
 
-Currently, two official plugins are available:
+## Live Demo
+**[View Live Portfolio](https://dev-portfolio-rust-phi.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- 🎨 Modern responsive design with dark/light mode
+- ⚡ Interactive skill categories and project showcase
+- 📱 Mobile-first approach
+- 🚀 Fast loading and optimized performance
 
-## Expanding the ESLint configuration
+## Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/developer-portfolio.git
+cd developer-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## Scripts
+
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run preview  # Preview production build
+```
+
+## Project Structure
+
+```
+src/
+├── components/     # React components
+├── context/       # Theme context
+├── pages/         # Page components
+├── data/          # Project data
+└── styles/        # CSS files
+```
+
+## Deployment
+
+Deployed on Vercel with automatic deployments from the main branch.
+
+## Contact
+
+- **Portfolio:** [dev-portfolio-rust-phi.vercel.app](https://dev-portfolio-rust-phi.vercel.app/)
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ **Star this repo if you found it helpful!**
