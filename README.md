@@ -57,9 +57,8 @@ Deployed on Vercel with automatic deployments from the main branch.
 ## Contact
 
 - **Portfolio:** [dev-portfolio-rust-phi.vercel.app](https://dev-portfolio-rust-phi.vercel.app/)
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** arif.cuet129@gmail.com
+  
 
 ---
 
